@@ -13,3 +13,7 @@ Read the CSV dataset file<br>
 Cleaning dataset and make linear regression<br>
 Draw scatter plot
 
+<em>DS3<br></em>
+Problem 1 : Read the Excel dataset file, and compute the linear regression equation E for the input dataset D. For of each record, compute e = w-w', where w' is obtained for h using E. Normalization e values and decied value a <br>
+More program : Divide the record into two group and repeat problem1<br>
+Problem 2 : Lab1 : Ex-1-a & 2-a & Minilab2 - problem1
