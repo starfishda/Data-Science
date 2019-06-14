@@ -9,11 +9,17 @@
 
 
 <b><em>DS2<br></em></b>
+<b>Problem 1</b> : <br>
 Read the CSV dataset file<br>
 Cleaning dataset and make linear regression<br>
-Draw scatter plot
+Draw scatter plot<br><br>
 
 <b><em>DS3<br></em></b>
 <b>Problem 1</b> : Read the Excel dataset file, and compute the linear regression equation E for the input dataset D. For of each record, compute e = w-w', where w' is obtained for h using E. Normalization e values and decied value a <br>
 <b>More program</b> : Divide the record into two group and repeat problem1<br>
-<b>Problem 2</b> : Lab1 : Ex-1-a & 2-a & Minilab2 - problem1
+<b>Problem 2</b> : Lab1 : Ex-1-a & 2-a & Minilab2 - problem1<br><br>
+
+<b><em>DS4<br></em></b>
+<b>Problem 1</b> : Using a linear regression model, predic and evaluate the delivery time based on distance.<br>
+<b>Problem 2</b> : Using a decision tree model, predict, and evaluate, wheter applicants will be interviewed or not.<br>
+<b>Problem 3</b> : Using a KNN model, predict and evaluate, which programming language people use.<br><br>
