@@ -9,6 +9,7 @@
 
 
 <b><em>DS2<br></em></b>
+<b>Problem 1</b> :
 Read the CSV dataset file<br>
 Cleaning dataset and make linear regression<br>
 Draw scatter plot<br><br>
