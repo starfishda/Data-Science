@@ -23,3 +23,5 @@ Draw scatter plot<br><br>
 <b>Problem 1</b> : Using a linear regression model, predic and evaluate the delivery time based on distance.<br>
 <b>Problem 2</b> : Using a decision tree model, predict, and evaluate, wheter applicants will be interviewed or not.<br>
 <b>Problem 3</b> : Using a KNN model, predict and evaluate, which programming language people use.<br><br>
+
+<b><em>DS-Term Project<br></em></b>
