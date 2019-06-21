@@ -30,11 +30,11 @@ Draw scatter plot<br><br>
 This data approach student achievement in secondary education of two Portuguese schools.<br>
 <b>Data Inspection</b> : Data Number - 4000  /  Feature Number  -  33<br>
 Missing Data / Wrong Data / Unusable Data / Outlier Data<br>
-<p><b>Data Preprocessing</b> :<br>
+<b>Data Preprocessing</b> :<br>
 1) Cleaning dirty data - wrong data & unusable data & missing data & outlier data<br>
 2) Data normalization<br>
 3) Encoding data<br>
 4) Feature creation<br>
-5) Feature removal<br></p>
+5) Feature removal<br>
 <b>Data Analysis</b> : Decision Trees for classification grades with Training and Testing dataset <br>
 <b>Evaluation</b> : Method - Random Forest  /  Metrix - Confusion Matrix
