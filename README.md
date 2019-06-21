@@ -25,7 +25,7 @@ Draw scatter plot<br><br>
 <b>Problem 3</b> : Using a KNN model, predict and evaluate, which programming language people use.<br><br>
 
 <b><em>DS-Term Project<br></em></b><br>
-<b>Object</b> : Will our child be able to adapt to school grades well?<br><br>
+<b>Objective Setting</b> : Will our child be able to adapt to school grades well?<br><br>
 <b>Data Curation</b> : https://www.kaggle.com/dipam7/student-grade-prediction <br>
 This data approach student achievement in secondary education of two Portuguese schools.<br><br>
 <b>Data Inspection</b> : Data Number - 4000  /  Feature Number  -  33<br>
