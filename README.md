@@ -24,17 +24,17 @@ Draw scatter plot<br><br>
 <b>Problem 2</b> : Using a decision tree model, predict, and evaluate, wheter applicants will be interviewed or not.<br>
 <b>Problem 3</b> : Using a KNN model, predict and evaluate, which programming language people use.<br><br>
 
-<b><em>DS-Term Project<br></em></b><br>
-<b>Objective Setting</b> : Will our child be able to adapt to school grades well?<br><br>
+<b><em>DS-Term Project<br></em></b>
+<b>Objective Setting</b> : Will our child be able to adapt to school grades well?<br>
 <b>Data Curation</b> : https://www.kaggle.com/dipam7/student-grade-prediction <br>
-This data approach student achievement in secondary education of two Portuguese schools.<br><br>
+This data approach student achievement in secondary education of two Portuguese schools.<br>
 <b>Data Inspection</b> : Data Number - 4000  /  Feature Number  -  33<br>
-Missing Data / Wrong Data / Unusable Data / Outlier Data<br><br>
+Missing Data / Wrong Data / Unusable Data / Outlier Data<br>
 <p><b>Data Preprocessing</b> :<br>
 1) Cleaning dirty data - wrong data & unusable data & missing data & outlier data<br>
 2) Data normalization<br>
 3) Encoding data<br>
 4) Feature creation<br>
-5) Feature removal<br><br></p>
-<b>Data Analysis</b> : Decision Trees for classification grades with Training and Testing dataset <br><br>
+5) Feature removal<br></p>
+<b>Data Analysis</b> : Decision Trees for classification grades with Training and Testing dataset <br>
 <b>Evaluation</b> : Method - Random Forest  /  Metrix - Confusion Matrix
