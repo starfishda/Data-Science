@@ -1,5 +1,5 @@
 # Data-Science
-3-1 Data Science course
+###3-1 Data Science course
 
 <b><em>DS1<br></em></b>
 <b>Exercise a</b> : Make linear regression with graph<br>
