@@ -2,9 +2,9 @@
 3-1 Data Science course
 
 <b><em>DS1<br></em></b>
-<b>Exercise a</b> : Make linear regression with graph<br>
-<b>Exsercise b</b> : Calculate mean, variance, standard deviation and draw graph<br>
-<b>Exercise c</b> : Generate 10000 random integers and print occurrence count for each value and draw pie chart<br>
+<b>Exercise a</b> : Make linear regression with graph<.br>
+<b>Exsercise b</b> : Calculate mean, variance, standard deviation and draw graph.<br>
+<b>Exercise c</b> : Generate 10000 random integers and print occurrence count for each value and draw pie chart.<br>
 <b>Exercise d</b> : Given an integer n, generate a random n by n matrix M, and compute the product of M and its inverse, which should be an identity matrix.<br><br>
 
 
