@@ -8,7 +8,7 @@
 <b>Exercise d</b> : Given an integer n, generate a random n by n matrix M, and compute the product of M and its inverse, which should be an identity matrix.<br><br>
 
 
-<b><em>DS2<br></em></b>
+<b><em>DS2<br></em></b>    
 <b>Problem 1</b> : <br>
 Read the CSV dataset file<br>
 Cleaning dataset and make linear regression<br>
